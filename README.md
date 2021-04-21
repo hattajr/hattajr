@@ -18,7 +18,7 @@ My name is Muhammad Hatta and I'm a Datascience and also ML enthusiast. I am fro
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://twitter.com/hattajr
-[2]: www.linkedin.com/in/muhammad-hatta-10jr
+[2]: https://www.linkedin.com/in/muhammad-hatta-10jr/
 
 
 <!--
