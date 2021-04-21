@@ -1,5 +1,9 @@
 ## Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+My name is Muhammad Hatta and I'm a Datascience and also ML enthusiast. I am from Indonesia, living in South Korea and currently working at IoT company. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Engine-Spark-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -9,6 +13,11 @@
 ![](https://img.shields.io/badge/Tools-TF-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 
 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+[1]: https://twitter.com/hattajr
+[2]: www.linkedin.com/in/muhammad-hatta-10jr
 
 
 <!--
