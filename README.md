@@ -10,7 +10,7 @@ My name is Muhammad Hatta and I'm a Datascientist and also ML engineer. I am fro
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TF-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
