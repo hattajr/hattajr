@@ -8,7 +8,6 @@ My name is Muhammad Hatta and I'm a Data scientist. I am from Indonesia, and cur
 ![](https://img.shields.io/badge/Engine-Spark-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 
