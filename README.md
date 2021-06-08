@@ -1,7 +1,8 @@
 ## Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Muhammad Hatta and I'm a Data scientist. Currently, I am working at a Tech company in South Korea. My interest are Applied machine learning, Feature extraction, time series analysis/modeling, and Data visualization. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][2].
+Machine learning is an Art where the math is the brush and python is the canvas.
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][2].
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
