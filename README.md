@@ -1,4 +1,4 @@
-## Hi, my friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, My friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 Machine learning is an Art where the math is the brush and python is the canvas.
