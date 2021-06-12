@@ -1,7 +1,7 @@
 ## Hi, My friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Machine learning will automate jobs that most people thought could only be done by people.
+MLOps Engineer.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][2].
 
 
