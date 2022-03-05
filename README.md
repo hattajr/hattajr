@@ -4,10 +4,9 @@ I'am Full-stack Data scientist working on developing and implementing end-to-end
 
 - 🔭 I'm currently working on building a framework for industrial predictive analysis
 - 🌱 Currently focus on learning MlOps 
-- 📈 I like comprehensive and interactive visualization
+- 📈 I love comprehensive and interactive visualization
 
 ## Connect with me
-
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hattajr/)
 [<img align="left" alt="site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://hattajr.github.io/)
