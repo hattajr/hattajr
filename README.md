@@ -4,7 +4,7 @@ I'am Full-stack Data scientist working on developing and implementing end-to-end
 
 - 🔭 I'm currently working on building a framework for industrial predictive analysis
 - 🌱 Currently focus on learning MLOps 
-- 📈 I love comprehensive and interactive visualization
+- 📊 I love comprehensive and interactive visualization
 - 🇰🇷  Currently living in South Korea
 
 ## Connect with me
