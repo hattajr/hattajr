@@ -2,8 +2,8 @@
 
 I'am a Full stack Data scientist/ML Engineer working on developing and implementing end-to-end machine learning system. In particular, my work covers exploratory data analysis, model development, and model deployment (e.g., MLOps, CD/CI, monitoring). My area of intrests includes anomaly detection, reliable machine learning task/workflow, machine learning explainability/uncertainty, and model generalization.
 
-- 🔭 I'm currently working on building a Machine learning framework for industrial predictive analysis
-- 🌱 Currently focus on learning Big Data architecture
+- 🔭 I'm currently working on building a Machine learning Ops for Healtcare
+- 🌱 Currently focus on learning Lakehouse + Distibuted computing architecture
 - 📊 I love comprehensive and interactive visualization
 - 🇰🇷  Currently living in South Korea
 
