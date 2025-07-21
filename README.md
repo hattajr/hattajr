@@ -7,9 +7,6 @@ I'am a Full stack Data scientist/ML Engineer working on developing and implement
 - 📊 I love comprehensive and interactive visualization
 - 🇰🇷  Currently living in South Korea
 
-
-_KTHXBYE_ 👋
-
 ## Connect with me
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hattajr/)
